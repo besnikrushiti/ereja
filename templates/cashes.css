@@ -1,0 +1,141 @@
+
+body, button, input, label, select, td, textarea {
+	font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;
+	font-size: 11px;
+}
+
+label {
+	cursor: pointer;
+	color: #666;
+	font-weight: bold;
+	vertical-align: middle;
+}
+
+select {
+	border: 1px solid #bdc7d8;
+	padding: 2px;
+}
+
+body a {
+	color: #3b5998;
+	cursor: pointer;
+	-moz-outline-style: none;
+	text-decoration: none;
+}
+
+body a:hover {
+	text-decoration: underline;
+}
+
+.katroriKryesor {
+	border-bottom: 1px solid #aaa;
+	width:600px;
+	margin:auto;
+	margin-bottom: 15px;
+}
+
+.katroriKryesor img {
+	position: relative;
+	top: 3px;
+}
+
+.katroriKryesor h2 {
+	color: #1c2a47;
+	font-size: 16px;
+	margin-top: 18px;
+	margin-bottom: 7px;
+}
+
+.katroriPlot {
+	margin:auto;
+	margin-top: 60px;
+	width: 640px;
+	background-color: #fff;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+}
+
+.katroriRresht {
+	padding: 0 0 8px 0;
+	text-align: left;
+}
+
+.vendosTekst {
+	width: 175px;
+	padding-bottom: 4px;
+	border: 1px solid #bdc7d8;
+	margin: 0;
+	padding: 3px;
+}
+
+.labelet {
+	display: block;
+	float: left;
+	padding: 3px 0;
+}
+
+.formaKatrori {
+	width:600px;
+	margin:auto;
+}
+
+.formaKatrori2 {
+	width:400px;
+	margin:auto;
+	margin-top:30px;
+	margin-bottom:50px;
+}
+
+.mire {
+	width:600px;
+	font-weight:bold;
+	margin: auto;
+}
+
+.kutia {
+	position: relative;
+	left: -21px;
+	top: 1px;
+	width: 630px;
+	padding: 8px 0px;
+	padding-left:10px;
+	background-color: #f2f2f2;
+	border: 1px solid #ccc;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+.kutia span {
+	position: absolute;
+	padding-top: 3px;
+}
+
+.butoniKonfirm {
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-position: 0 0;
+	background-color: #5b74a8;
+	border-color: #29447e #29447e #1a356e;
+}
+
+.butonet {
+	padding: 3px 10px;
+	border: solid 1px;
+	border-color: #29447e #29447e #1a356e;
+}
+
+.butonet input {
+	background: none;
+	border: 0;
+	color: #fff;
+	cursor: pointer;
+	display: -moz-inline-box;
+	display: inline-block;
+	font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	line-height: 13px;
+	margin: 0;
+	padding: 1px 0 2px;
+	white-space: nowrap;
+}
